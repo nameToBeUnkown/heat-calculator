@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#1c1917"/>
+  <!-- Thermometer body -->
+  <rect x="228" y="80" width="56" height="240" rx="28" fill="#f97316"/>
+  <!-- Thermometer bulb -->
+  <circle cx="256" cy="360" r="56" fill="#f97316"/>
+  <!-- Mercury fill -->
+  <rect x="240" y="200" width="32" height="160" fill="#fff" opacity="0.9"/>
+  <!-- Wind lines -->
+  <path d="M140 160 Q180 145 220 160" stroke="#a8a29e" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M140 210 Q175 195 220 210" stroke="#a8a29e" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M300 160 Q340 145 380 160" stroke="#a8a29e" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M300 210 Q335 195 380 210" stroke="#a8a29e" stroke-width="12" fill="none" stroke-linecap="round"/>
+</svg>
